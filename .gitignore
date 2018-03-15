@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.mr.developer.cfg
+bin/
+/etc/
+/src/
+.idea/
